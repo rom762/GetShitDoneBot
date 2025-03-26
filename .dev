@@ -1,0 +1,3 @@
+OPENAI_TOKEN = "add_your_own_api_key"
+BASE_URL = "add_your_own_url"
+TELEGRAM_BOT_TOKEN = "add_your_bot_key"
