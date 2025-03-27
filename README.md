@@ -16,9 +16,9 @@ Clone repo:
 git clone https://github.com/rom762/GetShitDoneBot.git
 ```
 
-edit .dev file - use your own keys for TelegramBot, OpenAI API and base url
+edit .env.sample file - use your own keys for TelegramBot, OpenAI API and base url
 
-rename .dev file to .env file:
+rename .env.sample to .env:
 
 Run Project:
 ```
