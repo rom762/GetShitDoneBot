@@ -1,7 +1,7 @@
 from dotenv import load_dotenv
 import os
 
-load_dotenv('.env.sample')
+load_dotenv('.env')
 
 api_key = os.getenv('OPENAI_TOKEN')
 base_url = os.getenv('BASE_URL')
