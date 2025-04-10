@@ -3,3 +3,7 @@ filelock==3.16.1
 platformdirs==4.3.6
 setuptools==75.6.0
 virtualenv==20.28.1
+sqlalchemy==2.0.40
+psycopg==3.1.10
+pydantic-settings==2.8.1
+uvicorn==0.34.0
